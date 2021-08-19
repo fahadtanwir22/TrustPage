@@ -1,0 +1,11 @@
+.MuiTableCell-alignRight {
+    text-align: left !important;
+    flex-direction: row-reverse !important;
+}
+
+@media screen and (max-width: 480px) {
+    .MuiTableCell-root{
+        padding: 0% !important;
+    }
+  }
+ 
